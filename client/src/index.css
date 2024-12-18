@@ -1,0 +1,23 @@
+* {
+  margin: 0;
+  padding: 0;
+}
+
+nav {
+  color: rgb(128, 233, 68);
+  font-weight: 600;
+  font-size: 26px;
+  width: 100vw;
+  background: #000;
+  display: flex;
+  justify-content: space-between;
+  padding: 0.7rem 2rem 0.7rem 2rem;
+}
+
+.container a {
+  color: white;
+  text-decoration: none;
+}
+.container a:hover {
+  color: white;
+}
